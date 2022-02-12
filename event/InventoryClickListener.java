@@ -1,4 +1,4 @@
-package org.intellidev.ipets.event;
+package ***
 
 import org.bukkit.Material;
 import org.bukkit.entity.EntityType;
